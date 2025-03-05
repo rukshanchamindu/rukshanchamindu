@@ -27,4 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rukshanchamindu&show_icons=true&locale=en&theme=dark" alt="rukshanchamindu" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rukshanchamindu&theme=dark)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=rukshanchamindu&theme=dark)](https://git.io/streak-stats)
+-->
