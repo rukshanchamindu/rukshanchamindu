@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rukshanch1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rukshanch1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rukshanchamindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rukshanchamindu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21381481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21381481" height="30" width="40" /></a>
 <a href="https://fb.com/rukshanchamindu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rukshanchamindu1" height="30" width="40" /></a>
 <a href="https://instagram.com/rukshan_chamindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rukshan_chamindu" height="30" width="40" /></a>
