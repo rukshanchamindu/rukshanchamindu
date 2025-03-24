@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring, Angular**
 
-- 👨‍💻 All of my projects are available at [rukshanch.me]((https://rukshanch.me))
+- 👨‍💻 All of my projects are available at [rukshanch.me](https://rukshanch.me)
 
 - 📫 How to reach me **rukshanch1@gmail.com**
 
