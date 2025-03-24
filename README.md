@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Spring, Angular**
 
-- 👨‍💻 All of my projects are available at [rukshanch.me](rukshanch.me)
+- 👨‍💻 All of my projects are available at [rukshanch.me]((https://rukshanch.me))
 
 - 📫 How to reach me **rukshanch1@gmail.com**
 
-- 📄 Know about my experiences [rukshanch.me/cv.pdf](rukshanch.me/cv.pdf)
+- 📄 Know about my experiences [rukshanch.me/cv.pdf](https://rukshanch.me/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
