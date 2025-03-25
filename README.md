@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rukshan Chamindu</h1>
-<h3 align="center">💻 Aspiring Software Engineer with a keen interest in full-stack web development., cloud computing, and automation.</h3>
+<h3 align="center">💻 Aspiring Software Engineer with a keen interest in full-stack web development, cloud computing, and automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshanchamindu&label=Profile%20views&color=0e75b6&style=flat" alt="rukshanchamindu" /> </p>
 
